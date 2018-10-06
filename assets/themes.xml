@@ -16,6 +16,9 @@
  -->
 
 <themes>
+    <theme name="Colt-Enigma" accent="org.omnirom.theme.accent.white"
+           thumbnail="thumbnail_enigma.png" notification="org.omnirom.theme.notification.primary"
+           primary="org.omnirom.theme.primary.enigma"/>
     <theme name="Slutty Pink" accent="org.omnirom.theme.accent.sluttypink"
            thumbnail="thumbnail_slutty_pink.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.darkblue"/>

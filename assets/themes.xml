@@ -20,10 +20,10 @@
            thumbnail="thumbnail_enigma.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.enigma"/>
     <theme name="Colt-Blue" accent="org.omnirom.theme.accent.sluttypink"
-           thumbnail="thumbnail_enigma.png" notification="org.omnirom.theme.notification.primary"
+           thumbnail="thumbnail_coltblue.jpg" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.coltblue"/>
     <theme name="Colt-Transparent" accent="org.omnirom.theme.accent.fromhell"
-           thumbnail="thumbnail_enigma.png" notification="org.omnirom.theme.notification.primary"
+           thumbnail="thumbnail_transcolt.jpg" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.transcolt"/>
     <theme name="Slutty Pink" accent="org.omnirom.theme.accent.sluttypink"
            thumbnail="thumbnail_slutty_pink.png" notification="org.omnirom.theme.notification.primary"
